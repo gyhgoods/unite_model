@@ -1,6 +1,6 @@
 Operating environment: Python 3.11.x
 <br>
-First, execute "python install.py"
+First execute "python install.py"
 <br>
 Execute "run unite.py"
 <br>
