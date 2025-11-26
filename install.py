@@ -3,7 +3,7 @@
 
 """
 install.py
-安装联合 CNN 图像分类 + 回归所需的依赖
+安装 CNN 图像分类 + 回归所需的依赖
 """
 
 import subprocess
@@ -22,6 +22,7 @@ packages = [
     "matplotlib",
     "seaborn",
     "scikit-learn",
+    "opencv-python",
     "pandas"   # 可选，如果后续处理数据需要
 ]
 
