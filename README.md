@@ -2,9 +2,16 @@ Operating environment: Python 3.11.x
 <br>
 First execute "python install.py"
 <br>
-Execute "run unite.py"
+Execute "hog_random_forest_classify.py"
 <br>
-<img width="1002" height="807" alt="de8006dd7d2c80d06df740159ac34fe9" src="https://github.com/user-attachments/assets/2fc9bc6b-b382-41b7-aa0a-c1f8981c2293" />
+<img width="948" height="747" alt="b3ff8b27eb8f9e37a23865e57f4a6187" src="https://github.com/user-attachments/assets/48c28161-ba1d-4a08-b86b-0cec8d074018" />
 <br>
-
-<img width="1065" height="837" alt="c3273380f1bc52f1289c6ebbdf23f041" src="https://github.com/user-attachments/assets/da423c58-4431-4184-8a90-3ac5b434aeff" />
+Execute "cnn_classify.py"
+<br>
+<img width="948" height="747" alt="f3d976ecd457a923d0e0ccfb67fd71fb" src="https://github.com/user-attachments/assets/cfc62730-70f6-42fb-ab46-160ec3b2c09f" />
+<br>
+<img width="948" height="747" alt="0f37f62acf3a2926bf20a24af6bab72d" src="https://github.com/user-attachments/assets/04952146-6fc1-4591-83bb-75fbc71ccced" />
+<br>
+Execute "cnn_regression.py"
+<br>
+<img width="948" height="747" alt="0c9b9553dff87cba08c02c5dba197720" src="https://github.com/user-attachments/assets/acf559ad-14cf-47fa-a41b-22e50c16cd96" />
