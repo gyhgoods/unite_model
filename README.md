@@ -4,7 +4,7 @@ First execute "python install.py"
 <br>
 Execute "hog_random_forest_classify.py"
 <br>
-<img width="948" height="747" alt="b3ff8b27eb8f9e37a23865e57f4a6187" src="https://github.com/user-attachments/assets/48c28161-ba1d-4a08-b86b-0cec8d074018" />
+<img width="948" height="747" alt="0796957ba4269d3639c11c3a48953629" src="https://github.com/user-attachments/assets/a4ac1f78-7571-47ab-989b-f5fe01eade53" />
 <br>
 Execute "cnn_classify.py"
 <br>
